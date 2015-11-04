@@ -1,2 +1,2 @@
 # ABC
-ABC = Algoritmo Been Colony
+ABC = Algoritmo Bee Colony
